@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"AutoFileName",
+		"BracketGuard",
+		"BracketHighlighter",
+		"Emmet",
+		"HTML5",
+		"SideBarEnhancements"
+	]
+}

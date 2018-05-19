@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.tmTheme",
+	"ignored_packages":
+	[
+		"BracketGuard",
+		"HTML5",
+		"Vintage"
+	],
+	"theme": "Adaptive.sublime-theme"
+}
