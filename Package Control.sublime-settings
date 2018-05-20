@@ -7,11 +7,16 @@
 	[
 		"A File Icon",
 		"Alignment",
+		"All Autocomplete",
 		"AutoFileName",
 		"BracketGuard",
 		"BracketHighlighter",
+		"Canvas Snippets",
 		"Emmet",
+		"Git",
 		"HTML5",
+		"JavaScript Completions",
+		"Package Control",
 		"SideBarEnhancements"
 	]
 }
