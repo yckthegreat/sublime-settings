@@ -12,11 +12,14 @@
 		"BracketGuard",
 		"BracketHighlighter",
 		"Canvas Snippets",
+		"Colorsublime",
 		"Emmet",
 		"Git",
 		"HTML5",
 		"JavaScript Completions",
+		"Material Theme",
 		"Package Control",
+		"Sass",
 		"SideBarEnhancements"
 	]
 }

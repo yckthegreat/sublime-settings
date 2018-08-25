@@ -1,10 +1,11 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Mariana.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/Humble.tmTheme",
+	"font_size": 8,
 	"ignored_packages":
 	[
 		"BracketGuard",
 		"HTML5",
 		"Vintage"
 	],
-	"theme": "Adaptive.sublime-theme"
+	"theme": "Material-Theme.sublime-theme"
 }
